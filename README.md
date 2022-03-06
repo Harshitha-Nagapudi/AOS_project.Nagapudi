@@ -1,7 +1,7 @@
 # AOS_project.Nagapudi
 <br>
 <div>
-  Used two Machine Learning Algorithms namely Naïve Bayes and Artificial Neural Networks, to classify the data in Data Exfiltration subset extracted from BOT-IoT dataset. The Dataset is created by UNSW and it has open access in IEEE Dataport. Used 80-20 train-test split following Pareto Principle. In terms of accuracy and other machine learning metrics ANN performed better compared to Naïve Bayes.
+  Used two Machine Learning Algorithms namely Naïve Bayes and Artificial Neural Networks, to classify the data in Data Exfiltration subset extracted from BOT-IoT dataset. The Dataset is created by UNSW and it has open access in IEEE Dataport. Used 80-20 train-test split following Pareto Principle. In terms of accuracy and other machine learning metrics, Naïve Bayes performed better compared to ANN except that Log Loss is more in case of Naïve Bayes.
 </div>
 <h2>How to Run:</h2>
 <p>
