@@ -16,3 +16,11 @@
   <img src="https://github.com/Harshitha-Nagapudi/AOS_project.Nagapudi/blob/main/AOS_Project.Nagapudi%20(1).png">
   <img src="https://github.com/Harshitha-Nagapudi/AOS_project.Nagapudi/blob/main/Results.png">
 </p>
+<h2>Analysis:</h2>
+<p>
+  1. The run time is more in case of ANN compared to NB, but reduced a bit when ran concurrently with NB.</br>
+  2. CPU Usage is more when ran concurrently, indicating that the CPU is busier compared to when running each program alone.</br>
+  3. It is obvious that Memory Usage is slighty more when running both programs concurrently than running alone.</br>
+  4. Hard Drive Usage is same in all the three cases.</br>
+  5. RSS, VMS and Page Faults are more in concurrent running case but when ran individually, they are more in case of ANN compared to NB.</br>
+</p>
